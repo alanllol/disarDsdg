@@ -1,0 +1,41 @@
+/* Agregar estilos para el modo oscuro aquí */
+body.dark-mode {
+    background-color: #1a1a1a;
+    color: #fff;
+}
+
+body.dark-mode a {
+    color: #fff;
+}
+
+body.dark-mode header {
+    background-color: #1f2937;
+    color: #fff;
+}
+
+body.dark-mode section {
+    background-color: #211F21;
+    color: #fff;
+}
+
+
+body.dark-mode section h3,
+body.dark-mode section h4,
+body.dark-mode section h5,
+body.dark-mode section p,
+body.dark-mode section a {
+    color: #172554;
+}
+
+body.dark-mode section h2{
+    color: #fff; 
+}
+
+body.dark-mode footer {
+    background-color: #1f2937;
+    color: #9ae6b4;
+}
+body.dark-mode  {
+    background-color: #1f2937;
+    color: #9ae6b4;
+}
